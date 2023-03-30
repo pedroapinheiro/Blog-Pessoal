@@ -1,0 +1,15 @@
+2023-03-30 15:25:35,155 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-30 15:26:11,199 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.generation:blogpessoal:0.0.1-SNAPSHOT @ C:\Program Files\Documents - workspace\Blog Pessoal\blogpessoal1\pom.xml.
+2023-03-30 15:26:15,249 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blogpessoal1/src/main/java
+2023-03-30 15:26:15,251 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal1/src/main/resources
+2023-03-30 15:26:15,254 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal1/src/main/resources
+2023-03-30 15:26:15,256 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blogpessoal1/src/test/java
+2023-03-30 15:26:15,258 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal1/src/test/resources
+2023-03-30 15:26:16,909 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-03-30 15:26:20,285 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-30 15:26:21,150 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.generation:blogpessoal:0.0.1-SNAPSHOT @ C:\Program Files\Documents - workspace\Blog Pessoal\blogpessoal1\pom.xml.
+2023-03-30 15:26:22,524 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blogpessoal1/src/main/java
+2023-03-30 15:26:22,525 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal1/src/main/resources
+2023-03-30 15:26:22,526 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal1/src/main/resources
+2023-03-30 15:26:22,526 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blogpessoal1/src/test/java
+2023-03-30 15:26:22,527 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal1/src/test/resources
